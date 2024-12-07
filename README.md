@@ -1,2 +1,2 @@
 # Graduation-Project
-This is my part where I Enhanced the COM Based Transformer Serialize &amp; Deserialize APIs on GPU using CUDA C with the help of my colleague Mohammed Reda
+I Enhanced the COM Based Transformer Serialization &amp; Deserialization APIs using GPU Threads using CUDA C in comparison to CPU Threads.
